@@ -36,6 +36,28 @@
                     "LayerId": "99302eb0-df49-49ff-b8b6-762cbe31bd96"
                 }
             ]
+        },
+        {
+            "id": "f7024be4-a461-4c90-a5c1-d82503e74d75",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "385adad9-49c5-4cbe-a51d-158208a00e31",
+            "compositeImage": {
+                "id": "a438ffcf-81af-4b1d-a3ea-bf297ace6c6e",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "f7024be4-a461-4c90-a5c1-d82503e74d75",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "c380f444-0dd1-4510-9ed9-38ac14f3f6c2",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "f7024be4-a461-4c90-a5c1-d82503e74d75",
+                    "LayerId": "99302eb0-df49-49ff-b8b6-762cbe31bd96"
+                }
+            ]
         }
     ],
     "gridX": 0,
