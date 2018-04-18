@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "1cbc6c50-c022-4e41-99d9-d8e116b562b5",
+            "Value": {
+                "id": "e9647645-8151-40b9-b76a-35b83bb4bbf7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/background_ice\/background_ice.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fe3c937-3174-4693-950f-2ff861e1962b",
             "Value": {
                 "id": "0da49a94-fc8e-4924-9b39-5557a29189c1",
