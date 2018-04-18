@@ -1,3 +1,6 @@
 /// @collision with the floor objects
 // You can write your code in this editor
-jump = jump_max
+if (other.image_index = 0)
+	{
+	jumps = jump_max
+	}
