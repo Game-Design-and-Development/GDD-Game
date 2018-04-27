@@ -13,3 +13,12 @@ if level_type == "snow"
 {
 	//I have nothing to do for the snow level in particular, this 
 }// etc.
+else if level_type = "1" //room lvl_1
+{
+}
+else if level_type = "2" //room lvl_2
+{
+}
+else if level_type = "3" //room lvl_3
+{
+}
