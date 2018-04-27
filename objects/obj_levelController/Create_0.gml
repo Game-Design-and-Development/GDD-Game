@@ -4,7 +4,7 @@
 //note that if you want to change the location of spawn change the variables in each room
 
 //may need to change this to instance_create_layer modifier :)
-player = instance_create_depth(spawn_x, spawn_y,0, obj_player)
+player = instance_create_depth(spawn_x, spawn_y, 0, obj_player)
 //set this to false to disable sound during gameplay (Mute)
 global.sound_on = true;
 
