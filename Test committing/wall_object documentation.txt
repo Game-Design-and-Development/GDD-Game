@@ -1,0 +1,15 @@
+move_state:
+    values: 0, 1, 2
+        0: no movement
+        1: horizontal movement
+        2: vertical movement
+            //note that the penguin currently falls slower than the default speed, its a little weird
+
+move_speed:
+    the number of pixels the block will move in one frame (tick), tell me if you need more precise movement
+
+move_max:
+    the number of frames that the block will travel in one direction before switching to the other direction
+
+move_period:
+    at what step in the process the block will start. you should probably choose either the value you entered for move_max or 0. other values will start the block in mid move and could be tricky to get where you want them to go.
