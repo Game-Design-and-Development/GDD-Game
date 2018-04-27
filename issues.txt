@@ -1,1 +1,3 @@
 what have i done?
+
+issue RE: the player collideing with a vertical  wall and not falling properly
