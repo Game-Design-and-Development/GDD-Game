@@ -5,3 +5,4 @@ image_index = 0
 
 //check move state, determine the appropriate path ot take
 //custom move_states go here
+

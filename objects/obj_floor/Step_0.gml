@@ -19,5 +19,7 @@ else if move_state == 2
 		phy_position_y -= move_speed
 	else phy_position_y += move_speed
 	move_period--
-}
+} 
 //more complex movements can go here
+
+//Change Index to 1 in room to do wall border can be stretched out
